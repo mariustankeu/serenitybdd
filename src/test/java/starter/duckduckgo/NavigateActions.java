@@ -1,4 +1,4 @@
-package starter.duckduckgo
+package starter.duckduckgo;
 
 import net.serenitybdd.core.steps.UIInteractions;
 
